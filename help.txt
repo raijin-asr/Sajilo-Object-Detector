@@ -1,0 +1,13 @@
+IF issue arises, follow below youtube and website:
+
+Website:
+https://pysource.com/2021/08/16/face-recognition-in-real-time-with-opencv-and-python/
+https://www.google.com/search?sca_esv=65b627a4699ea87d&sxsrf=ACQVn09257uvPl7qwflfvoPSXid9sxzDiw:1713442215755&q=installing+pip+face_recognition+in+windows+10&tbm=vid&source=lnms&prmd=visnbmz&sa=X&ved=2ahUKEwjAx_PU3cuFAxX8yDgGHbsHBXEQ0pQJegQIChAB&biw=767&bih=702&dpr=1.25
+-------------------------
+
+Youtube:
+https://www.youtube.com/watch?v=MZ4jPU75iC4&t=177s  (solved dlib issue and face_recognition issue)
+-----------------
+
+Github: (manually download dlib from here and install in virtual env)
+https://github.com/davisking/dlib
