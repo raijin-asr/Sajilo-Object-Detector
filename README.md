@@ -1,5 +1,7 @@
-# Sajilo Object Detector
+# Sajilo Object Detector(सजिलो वस्तु डिटेक्टर)
 This project uses OpenCV for real-time detection, integrating SSD models. It includes face login authentication and achieves accurate object identification..</br>
+
+<b>Nepali:</b> यो परियोजनाले वास्तविक समयमा वस्तु पत्ता लगाउनको लागि OpenCV प्रयोग गर्दछ र SSD मोडललाई एकिकृत गर्छ । यसले अनुहार लगइन प्रमाणीकरण समावेश गर्दछ र सटीक वस्तु पहिचान प्राप्त गर्दछ।
 
 <strong>Programming Language used:</strong> Python </br>
 <strong>Tools Used:</strong> Vs Code, Jupyter Lab, Jupyter Notebook </br>
